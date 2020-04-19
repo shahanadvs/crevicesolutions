@@ -8,6 +8,9 @@ html {
     height: 100vh !important;
     
 }
+#about{
+	z-index:1;
+}
 
 
 .start-1 img{
